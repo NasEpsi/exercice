@@ -86,7 +86,7 @@
         background-color: #8C031C;
         color: white;
         padding: 3rem;
-        text-align: center;
+        text-align: right;
     }
 
     .pricing-card {
