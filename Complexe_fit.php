@@ -194,7 +194,7 @@
 
 <!-- Jumbotron/Welcome Section -->
 <div class="jumbotron">
-    <h1 class="display-4">Bienvenue chez Complexe-Fit!</h1>
+    <h1 class="display-4">Bienvenue dans Github</h1>
     <p class="lead">Votre voyage vers une vie plus saine et plus en forme commence ici.</p>
     <hr class="my-4">
     <p>Découvrez nos installations ultramodernes, nos programmes d’entraînement personnalisés et nos conseils d’experts.</p>
@@ -206,6 +206,10 @@
 <br>
 <br>
 <br>
+<div id="new content">
+    <p>voici comment on utilise git</p>
+
+</div>
 <!-- Features Section -->
 <div class="textdivPro">
 <div class="row">
