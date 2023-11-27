@@ -245,7 +245,7 @@
   <h2 class="text-center">Nos abonnements</h2>
   <br>
   <br>
-  <br>
+  <br><br><br><br>
     <!-- Bootstrap Pricing Card -->
     <div class="col-md-4">
         <div class="card">
@@ -307,49 +307,8 @@
 <br>
 <div class="textdivPro">
 <div class="row">
-    <div class="col-md-12">
-        <h2 class="text-center">Ce que disent nos membres</h2>
-    </div>
-    <br>
-    <div class="col-md-4 testimonial">
-        <p>"Complexe-Fit a transformé ma vie. Les formateurs sont compétents, et les installations sont de qualité. Hautement recommandé!"</p>
-        <strong>- Sarah M.</strong>
-    </div>
-    <div class="col-md-4 testimonial">
-        <p>"J’adore la souplesse des heures d’entraînement. Complexe-Fit m’a permis de rester fidèle à mes objectifs de condition physique."</p>
-        <strong>- John D.</strong>
-    </div>
-    <div class="col-md-4 testimonial">
-        <p>"La variété d’équipement et de cours offerts au Complexe-Fit rend mes séances d’entraînement excitantes. C’est plus qu’une simple salle de fitness; c’est une communauté."</p>
-        <strong>- Emily R.</strong>
-    </div>
 </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div class="gallery">
-    <h2 class="text-center">Gallerie Photo</h2><br>
-    <div class="row">
-        <div class="col-md-4">
-            <img src="https://lightinfitness.com/wp-content/uploads/2022/11/Appareils-de-musculation-professionnels.jpg" class="img-fluid" alt="Gym Image 1" weight="800px" height="550px">
-        </div>
-        <div class="col-md-4">
-            <img src="https://www.pariscountryclub.com/wp-content/uploads/2022/12/pcc-actus-debuter-salle-sport.jpg" class="img-fluid" alt="Gym Image 2" weight="800px" height="550px">
-        </div>
-        <div class="col-md-4">
-            <img src="https://www.toute-la-franchise.com/images/zoom/news/xl/542474.jpg" class="img-fluid" alt="Gym Image 3" weight="800px" height="550px">
-        </div>
-    </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <!-- Call to Action Section -->
 <div class="cta">
@@ -358,6 +317,24 @@
     <a href="#pricing" class="btn btn-light btn-lg">Inscrivez-vous dès maintenant</a>
 </div>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div class="footerPage">
 <footer id="foot"class="site-footer">
       <div class="container">
@@ -379,6 +356,7 @@
               <li><a href="Comps">Article</a></li>
               <li><a href="EquipeDir.php">Equipe</a></li>
               <li><a href="MapProjet.php">Emplacements</a></li>
+              <li><a href="Exe.php">Exer</a><li>
             </ul>
           </div>
         </div>
